@@ -1,0 +1,46 @@
+body
+{color: black; 
+padding: 20px}
+
+
+
+
+.filter {
+  font-size: 14px; 
+  padding: 6px;
+}
+
+
+.content {
+ font-size: 15px; 
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 0 0 3px;
+  margin: 0 0 8px;
+}
+
+
+article footer {
+  font-size: 12px;
+   border-bottom:1px solid grey;
+   padding: 3px; 
+
+}
+
+.last-article {
+  padding: 0 0 9px;
+}
+
+.last-article-footer {
+  border: 0;
+}
+
+a{
+  margin: 6px;
+  padding: 4px;
+
+}
+
+
+

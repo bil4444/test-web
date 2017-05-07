@@ -1,0 +1,47 @@
+body {
+  margin:0;
+  background: #B38da4; 
+  color:rgba(255, 255, 255, .76);
+}
+
+.jacky {
+  background: #a23645;
+  /*color: rgba(255, 255, 255, .76);*/
+  font: 28px/40px 'PingFang TC', sans-serif;
+  font-weight: 100;
+  min-height: calc(225px - 26px * 2);
+  /*border:#a23645 solid ;*/
+  /*border-width: 26px 22px;*/
+  /*box-sizing: border-box; */
+  padding: 26px 22px;
+}
+
+.opt{
+  padding: 32px 32px; 
+  font: 20px'PingFang TC', sans-serif;
+  list-style-type: none; 
+
+}
+
+.options{
+  list-style-type: none; 
+  margin:0;
+  padding: 0;
+  
+}
+
+.option{
+padding: 28px 0px;
+}
+
+.submit{
+  color:#802b67; 
+  background: transparent;
+  width: 100%; 
+  border: solid 1px #802b67; 
+  border-radius: 8px; 
+  font-size: 33px; 
+  padding: 20px; 
+  margin: 44px 0px ;
+
+}
